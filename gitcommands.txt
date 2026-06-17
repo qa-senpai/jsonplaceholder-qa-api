@@ -1,5 +1,0 @@
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/qa-senpai/jsonplaceholder-qa-api.git -- посилання на ваш репозиторій
-git push -u origin main
