@@ -6,9 +6,5 @@
   },
   "author": "Pavlo Safonov",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "newman": "^6.2.2"
-  },
-  "devDependencies": {}
+  "description": ""
 }
